@@ -24,8 +24,8 @@
 ---
 
 ## 📊 GitHub статистика  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IliaVoskoboinikov&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IliaVoskoboinikov&layout=compact&theme=radical)  
 
 ---
 
