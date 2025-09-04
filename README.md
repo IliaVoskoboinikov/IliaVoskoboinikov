@@ -17,7 +17,7 @@
 ---
 
 ## 📱 Примеры проектов
-### 🔹 [Finance-Manager](https://github.com/IliaVoskoboinikov/Finance-Manager))  
+### 🔹 [Finance-Manager](https://github.com/IliaVoskoboinikov/Finance-Manager)
 Приложение для отслеживания эмоций и привычек с элементами геймификации.  
 **Стек:** Kotlin, MVVM, Clean Architecture, Firebase, Jetpack Compose  
 
