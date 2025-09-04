@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Привет, я Илья Воскобойников 
 
-<!--
-**IliaVoskoboinikov/IliaVoskoboinikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Android-разработчик с опытом 4+ лет. Люблю чистую архитектуру, читаемый код и осмысленные UI-решения.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек
+- **Языки:** Kotlin, Java  
+- **Архитектура:** MVVM, Clean Architecture, SOLID, многомодульность  
+- **DI:** Dagger 2 / Hilt, Koin  
+- **UI:** XML, Jetpack Compose, Material 3, Custom Views, анимации  
+- **Базы данных:** Room, SQLite, Realm, DataStore, SharedPreferences  
+- **Сеть:** Retrofit, OkHttp, WebSockets, Ktor  
+- **Инструменты:** Git, GitHub Actions, Firebase, Crashlytics, Analytics  
+- **Тестирование:** JUnit, Mockito, Espresso  
+
+---
+
+## 📱 Примеры проектов
+### 🔹 [Finance-Manager](https://github.com/IliaVoskoboinikov/Finance-Manager))  
+Приложение для отслеживания эмоций и привычек с элементами геймификации.  
+**Стек:** Kotlin, MVVM, Clean Architecture, Firebase, Jetpack Compose  
+
+---
+
+## 📊 GitHub статистика  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical)  
+
+---
+
+## 📫 Контакты
+- 📧 Email: ilia.voskoboinikov@mail.ru  
+- 📱 Telegram: [@VoskoboinikovIS(https://t.me/VoskoboinikovIS)  
+
+---
+ 
