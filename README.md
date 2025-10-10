@@ -28,6 +28,7 @@
 
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliaVoskoboinikov&theme=github)
 
+![Anurag's GitHub stats] http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={IliaVoskoboinikov}&theme={github}
 
 ---
 
