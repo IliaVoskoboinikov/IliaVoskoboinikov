@@ -28,6 +28,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliaVoskoboinikov&theme=github)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IliaVoskoboinikov&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IliaVoskoboinikov&theme=github)
+
+
+
 ---
 
 ## 📫 Контакты
