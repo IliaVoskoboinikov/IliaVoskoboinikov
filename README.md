@@ -18,17 +18,14 @@
 
 ## 📱 Примеры проектов
 ### 🔹 [Finance-Manager](https://github.com/IliaVoskoboinikov/Finance-Manager)
-Приложение для отслеживания эмоций и привычек с элементами геймификации.  
-**Стек:** Kotlin, MVVM, Clean Architecture, Firebase, Jetpack Compose  
+Приложение для отслеживания своих финансовых расходов.  
+**Стек:** Kotlin, MVVM, Clean Architecture, Jetpack Compose, Room
 
 ---
 
 ## 📊 GitHub статистика  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliaVoskoboinikov&theme=github)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IliaVoskoboinikov&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IliaVoskoboinikov&theme=github)
-
 
 
 ---
