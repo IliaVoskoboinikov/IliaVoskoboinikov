@@ -3,6 +3,16 @@
 🎯 Android-разработчик с 4+ годами коммерческого опыта. Разрабатывал мобильные приложения с нуля: от анализа требований и проектирования архитектуры до публикации приложений в Google Play и их дальнейшего развития. Отлично знаю Android SDK и современные Android-подходы. Масштабировал существующие решения, внедрял best practices, участвовал в найме и проводил технические собеседования, занимался менторингом, выступал на конференциях и писал технические статьи.  
 
 ---
+## 💼 CV
+### 🔹 [CV]([https://github.com/IliaVoskoboinikov/Finance-Manager](https://github.com/IliaVoskoboinikov/cv))
+
+---
+
+## 📫 Контакты
+- 📧 Email: ilia.voskoboinikov@mail.ru  
+- 📱 Telegram: [@VoskoboinikovIS(https://t.me/VoskoboinikovIS)
+
+---
 
 ## 🛠️ Мой стек
 - **Языки:** Kotlin, Java  
@@ -12,7 +22,7 @@
 - **Базы данных:** Room, SQLite, Realm, DataStore, SharedPreferences  
 - **Сеть:** Retrofit, OkHttp, WebSockets, Ktor  
 - **Инструменты:** Git, GitHub Actions, Firebase, Crashlytics, Analytics  
-- **Тестирование:** JUnit, Mockito, Espresso  
+- **Тестирование:** JUnit, Mockito, Espresso
 
 ---
 
@@ -27,12 +37,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliaVoskoboinikov&theme=github)
 
-
 ---
 
-## 📫 Контакты
-- 📧 Email: ilia.voskoboinikov@mail.ru  
-- 📱 Telegram: [@VoskoboinikovIS(https://t.me/VoskoboinikovIS)  
-
----
  
