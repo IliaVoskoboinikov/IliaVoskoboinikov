@@ -4,8 +4,7 @@
 
 ---
 ## 💼 CV
-### 🔹 [CV]([https://github.com/IliaVoskoboinikov/Finance-Manager](https://github.com/IliaVoskoboinikov/cv))
-
+### 🔹 [CV](https://github.com/IliaVoskoboinikov/cv)
 ---
 
 ## 📫 Контакты
