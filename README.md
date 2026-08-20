@@ -153,7 +153,10 @@ flowchart TD
 # 📊 GitHub
 
 <p align="center">
-  <img width="62%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/metrics/isocalendar.svg" alt="Календарь контрибуций за год">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img width="99%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/0-profile-details.svg" alt="Профиль в цифрах">
+  </picture>
 </p>
 
 <p align="center">
@@ -162,16 +165,12 @@ flowchart TD
     <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/3-stats.svg" alt="Статистика">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Языки по репозиториям">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Языки по коммитам">
   </picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Языки по коммитам">
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/4-productive-time.svg">
     <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/4-productive-time.svg" alt="Продуктивное время">
