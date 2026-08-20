@@ -1,0 +1,20 @@
+# IDE — JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
