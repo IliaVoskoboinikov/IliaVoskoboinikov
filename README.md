@@ -153,18 +153,44 @@ flowchart TD
 # 📊 GitHub
 
 <p align="center">
+  <img width="62%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/metrics/isocalendar.svg" alt="Календарь контрибуций за год">
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IliaVoskoboinikov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=ru&theme=github_dark">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=IliaVoskoboinikov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=ru" alt="GitHub статистика">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/3-stats.svg" alt="Статистика">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaVoskoboinikov&layout=compact&hide_border=true&langs_count=8&locale=ru&theme=github_dark">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaVoskoboinikov&layout=compact&hide_border=true&langs_count=8&locale=ru" alt="Языки">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Языки по репозиториям">
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Языки по коммитам">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/main/profile-summary-card-output/github/4-productive-time.svg" alt="Продуктивное время">
+  </picture>
+</p>
+
+<sub>Карточки обновляются ежедневно через GitHub Actions и лежат в этом же репозитории — без внешних сервисов.</sub>
 
 # 📫 Контакты
 
 - 📧 **Email:** [ilia.voskoboinikov@mail.ru](mailto:ilia.voskoboinikov@mail.ru)
 - 📱 **Telegram:** [@VoskoboinikovIS](https://t.me/VoskoboinikovIS)
 - 📄 **Резюме:** [PDF](https://github.com/IliaVoskoboinikov/cv/blob/main/ilia_voskoboinikov_android_cv_ru.pdf)
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/IliaVoskoboinikov/IliaVoskoboinikov/output/github-snake.svg" alt="Змейка съедает контрибуции">
+  </picture>
+</p>
