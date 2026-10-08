@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇷🇺 Русский</b> · <a href="https://github.com/IliaVoskoboinikov/IliaVoskoboinikov/blob/main/README.en.md">🇬🇧 English</a>
+</p>
+
 <h1 align="center">Илья Воскобойников</h1>
 <p align="center"><b>Android Engineer</b> · Kotlin · Jetpack Compose · Kotlin Multiplatform · 4+ года коммерческого опыта</p>
 
