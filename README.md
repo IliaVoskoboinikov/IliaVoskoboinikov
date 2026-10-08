@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Открыт_к_предложениям-2EA44F?style=flat-square" alt="Открыт к предложениям">
   <img src="https://img.shields.io/badge/5_приложений-Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play">
   <img src="https://img.shields.io/badge/2_приложения-Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform">
-  <img src="https://img.shields.io/badge/107_000+-установок-1F6FEB?style=flat-square" alt="Установки">
+  <!--installs-total--><img src="https://img.shields.io/badge/107_000+-установок-1F6FEB?style=flat-square" alt="Установки"><!--/installs-total-->
 </p>
 
 # 👋 Обо мне
@@ -36,13 +36,13 @@ Android-разработчик с 4+ годами коммерческого о�
 
 | Приложение | Установок | Стек |
 |---|---|---|
-| **[Монетка: ДА/НЕТ](https://play.google.com/store/apps/details?id=v500a5v.ilua.admin.monetka)** · [App Store](https://apps.apple.com/ru/app/coin-yes-no/id6756816990)<br><sub>Симулятор монетки для быстрых решений. Android и iOS из одной кодовой базы; iOS-версия издана на аккаунте партнёра.</sub> | **100 тыс.+** | Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase |
-| **[Мафия: карточки](https://play.google.com/store/apps/details?id=soft.divan.mafia)**<br><sub>Оффлайн-ведущий для настольной «Мафии»: до 30 игроков, раздача ролей.</sub> | **5 тыс.+** | Kotlin · Compose (Material 3) · Hilt · DataStore · Play Billing · Yandex Ads |
-| **[Генератор паролей](https://play.google.com/store/apps/details?id=soft.divan.admin.password)**<br><sub>Надёжные пароли с настраиваемой длиной и набором символов.</sub> | **1 тыс.+** | Kotlin Multiplatform · Compose Multiplatform · Coroutines · Firebase |
-| **[Rubik's Timer](https://play.google.com/store/apps/details?id=soft.divan.rubik_sclock)**<br><sub>Таймер для спидкубинга: миллисекундная точность, скрамблы, статистика сборок.</sub> | **1 тыс.+** | Kotlin 2.3 · Compose (Material 3) · Hilt + KSP · Room · DataStore |
-| **[World Words](https://play.google.com/store/apps/details?id=soft.divan.world.words)**<br><sub>Карточки для изучения иностранных слов с категориями и синхронизацией аккаунта.</sub> | **500+** | Kotlin · XML + Navigation · Koin · Room · Paging 3 · Firebase (Auth, Firestore, App Check) |
+| **[Монетка: ДА/НЕТ](https://play.google.com/store/apps/details?id=v500a5v.ilua.admin.monetka)** · [App Store](https://apps.apple.com/ru/app/coin-yes-no/id6756816990)<br><sub>Симулятор монетки для быстрых решений. Android и iOS из одной кодовой базы; iOS-версия издана на аккаунте партнёра.</sub> | **<!--installs:v500a5v.ilua.admin.monetka-->100 тыс.+<!--/installs-->** | Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase |
+| **[Мафия: карточки](https://play.google.com/store/apps/details?id=soft.divan.mafia)**<br><sub>Оффлайн-ведущий для настольной «Мафии»: до 30 игроков, раздача ролей.</sub> | **<!--installs:soft.divan.mafia-->5 тыс.+<!--/installs-->** | Kotlin · Compose (Material 3) · Hilt · DataStore · Play Billing · Yandex Ads |
+| **[Генератор паролей](https://play.google.com/store/apps/details?id=soft.divan.admin.password)**<br><sub>Надёжные пароли с настраиваемой длиной и набором символов.</sub> | **<!--installs:soft.divan.admin.password-->1 тыс.+<!--/installs-->** | Kotlin Multiplatform · Compose Multiplatform · Coroutines · Firebase |
+| **[Rubik's Timer](https://play.google.com/store/apps/details?id=soft.divan.rubik_sclock)**<br><sub>Таймер для спидкубинга: миллисекундная точность, скрамблы, статистика сборок.</sub> | **<!--installs:soft.divan.rubik_sclock-->1 тыс.+<!--/installs-->** | Kotlin 2.3 · Compose (Material 3) · Hilt + KSP · Room · DataStore |
+| **[World Words](https://play.google.com/store/apps/details?id=soft.divan.world.words)**<br><sub>Карточки для изучения иностранных слов с категориями и синхронизацией аккаунта.</sub> | **<!--installs:soft.divan.world.words-->500+<!--/installs-->** | Kotlin · XML + Navigation · Koin · Room · Paging 3 · Firebase (Auth, Firestore, App Check) |
 
-<sub>Установки — по данным Google Play, август 2026.</sub>
+<sub>Установки — по данным Google Play, обновляются автоматически раз в неделю.</sub>
 
 # 🏦 Finance Manager
 

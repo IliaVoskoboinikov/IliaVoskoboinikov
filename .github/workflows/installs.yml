@@ -1,0 +1,33 @@
+name: Update App Installs
+
+on:
+  schedule: # раз в неделю, по понедельникам
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run tests
+        run: python3 -m unittest discover -s scripts -p "test_*.py"
+
+      - name: Update installs in README
+        run: python3 scripts/update_installs.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "Изменений нет"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Обновить установки приложений"
+          git pull --rebase
+          git push

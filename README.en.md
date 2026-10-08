@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Open_to_work-2EA44F?style=flat-square" alt="Open to work">
   <img src="https://img.shields.io/badge/5_apps-Google_Play-3DDC84?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play">
   <img src="https://img.shields.io/badge/2_apps-Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform">
-  <img src="https://img.shields.io/badge/107,000+-installs-1F6FEB?style=flat-square" alt="Installs">
+  <!--installs-total--><img src="https://img.shields.io/badge/107,000+-installs-1F6FEB?style=flat-square" alt="Installs"><!--/installs-total-->
 </p>
 
 # 👋 About me
@@ -36,13 +36,13 @@ and written technical articles.
 
 | App | Installs | Stack |
 |---|---|---|
-| **[Coin: Yes/No](https://play.google.com/store/apps/details?id=v500a5v.ilua.admin.monetka&hl=en)** · [App Store](https://apps.apple.com/us/app/coin-yes-no/id6756816990)<br><sub>Coin-flip simulator for quick decisions. Android and iOS from a single codebase; the iOS version is published under a partner's account.</sub> | **100K+** | Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase |
-| **[Mafia: Card Game](https://play.google.com/store/apps/details?id=soft.divan.mafia&hl=en)**<br><sub>Offline host for the Mafia party game: up to 30 players, automatic role assignment.</sub> | **5K+** | Kotlin · Compose (Material 3) · Hilt · DataStore · Play Billing · Yandex Ads |
-| **[Password Generator](https://play.google.com/store/apps/details?id=soft.divan.admin.password&hl=en)**<br><sub>Strong passwords with configurable length and character sets.</sub> | **1K+** | Kotlin Multiplatform · Compose Multiplatform · Coroutines · Firebase |
-| **[Rubik's Timer](https://play.google.com/store/apps/details?id=soft.divan.rubik_sclock&hl=en)**<br><sub>Speedcubing timer: millisecond precision, scrambles, solve statistics.</sub> | **1K+** | Kotlin 2.3 · Compose (Material 3) · Hilt + KSP · Room · DataStore |
-| **[World Words](https://play.google.com/store/apps/details?id=soft.divan.world.words&hl=en)**<br><sub>Vocabulary flashcards with categories and account sync.</sub> | **500+** | Kotlin · XML + Navigation · Koin · Room · Paging 3 · Firebase (Auth, Firestore, App Check) |
+| **[Coin: Yes/No](https://play.google.com/store/apps/details?id=v500a5v.ilua.admin.monetka&hl=en)** · [App Store](https://apps.apple.com/us/app/coin-yes-no/id6756816990)<br><sub>Coin-flip simulator for quick decisions. Android and iOS from a single codebase; the iOS version is published under a partner's account.</sub> | **<!--installs:v500a5v.ilua.admin.monetka-->100K+<!--/installs-->** | Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase |
+| **[Mafia: Card Game](https://play.google.com/store/apps/details?id=soft.divan.mafia&hl=en)**<br><sub>Offline host for the Mafia party game: up to 30 players, automatic role assignment.</sub> | **<!--installs:soft.divan.mafia-->5K+<!--/installs-->** | Kotlin · Compose (Material 3) · Hilt · DataStore · Play Billing · Yandex Ads |
+| **[Password Generator](https://play.google.com/store/apps/details?id=soft.divan.admin.password&hl=en)**<br><sub>Strong passwords with configurable length and character sets.</sub> | **<!--installs:soft.divan.admin.password-->1K+<!--/installs-->** | Kotlin Multiplatform · Compose Multiplatform · Coroutines · Firebase |
+| **[Rubik's Timer](https://play.google.com/store/apps/details?id=soft.divan.rubik_sclock&hl=en)**<br><sub>Speedcubing timer: millisecond precision, scrambles, solve statistics.</sub> | **<!--installs:soft.divan.rubik_sclock-->1K+<!--/installs-->** | Kotlin 2.3 · Compose (Material 3) · Hilt + KSP · Room · DataStore |
+| **[World Words](https://play.google.com/store/apps/details?id=soft.divan.world.words&hl=en)**<br><sub>Vocabulary flashcards with categories and account sync.</sub> | **<!--installs:soft.divan.world.words-->500+<!--/installs-->** | Kotlin · XML + Navigation · Koin · Room · Paging 3 · Firebase (Auth, Firestore, App Check) |
 
-<sub>Installs — Google Play data, October 2026.</sub>
+<sub>Installs — Google Play data, updated automatically every week.</sub>
 
 # 🏦 Finance Manager
 
